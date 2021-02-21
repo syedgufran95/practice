@@ -9,8 +9,6 @@ print("second line on dev branch")
 
 print("this is from ayaz, hello world")
 
-# added new feature asked by ayaz
-
 #this is the new commwwnt to create conflict
 
 
