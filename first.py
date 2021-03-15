@@ -31,11 +31,14 @@ print("this is from ayaz, hello world")
 print("first line of code by gufran ")
 
 
-#helllloooooo this is gufran
-print("second line on dev branch")
+#HELLLLOOOOOO this is gufran
+print("SECOND LINE ON DEV BRANCH")
 # dev check comment
 # adding comment to test dev commit
 
+
+
+gufran seab kariv conflict resolve::::::::::::)))))))))))))
 
 
 
